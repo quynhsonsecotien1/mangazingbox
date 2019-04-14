@@ -1,7 +1,7 @@
 {
   "list_apps": [],
-  "clicks_show_popup": 5,
-  "open_popup_start_read": true,
+  "clicks_show_popup": 10,
+  "open_popup_start_read": false,
   "list_ads": [
     {
       "id_app": "ca-app-pub-5372862349743986~1247490350",
