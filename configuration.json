@@ -1,0 +1,20 @@
+{
+  "list_apps": [],
+  "clicks_show_popup": 5,
+  "list_ads": [
+    {
+      "id_app": "ca-app-pub-5372862349743986~1247490350",
+      "id_banner": "ca-app-pub-5372862349743986/2724223554",
+      "id_popup": "ca-app-pub-5372862349743986/4200956752",
+      "id_video": "ca-app-pub-5372862349743986/9264430280",
+      "type": "admob"
+    },
+    {
+      "id_app": "3072596",
+      "id_banner": "",
+      "id_popup": "",
+      "id_video": "",
+      "type": "unity"
+    }
+  ]
+}
