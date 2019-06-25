@@ -2,75 +2,140 @@
       "audiocall": [
         {
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/barack_obama.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/barack_obama.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/barack_obama.jpg",
+          "name": "barack_obama"
         },
        {
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/big_tom.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/big_tom.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/big_tom.jpg",
+          "name": "big tom"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/boss.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/boss.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/boss.jpg",
+          "name": "boss"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/childrenboy1.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/childrenboy1.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/childrenboy1.jpg",
+          "name": "children boy scary"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/chilrengirl2.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/chilrengirl2.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/chilrengirl2.jpg",
+          "name": "chilren girl scary"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/chilrengirl3.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/chilrengirl3.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/chilrengirl3.jpg",
+          "name": "chilren girl3 scary"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/crazy_doctor.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/crazy_doctor.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/crazy_doctor.jpg",
+          "name": "crazy_doctor"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ex-boyfriend.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ex-boyfriend.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ex-boyfriend.jpg",
+          "name": "boy friend"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ex-girlfriend.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ex-girlfriend.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ex-girlfriend.jpg",
+          "name": "girl friend"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/girlchilren1.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/girlchilren1.jpeg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/girlchilren1.jpeg",
+          "name": "girl chilren1 scary"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/grandma.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/grandma.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/grandma.jpg",
+          "name": "grandma"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/grandpa.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/grandpa.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/grandpa.jpg",
+          "name": "grandpa"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/happybirth.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/happybirth.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/happybirth.jpg",
+          "name": "happy birth day"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ladybug.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ladybug.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/ladybug.jpg",
+          "name": "ladybug"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/rayan.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/rayan.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/rayan.jpg",
+          "name": "rayan"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary1.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary1.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary1.jpg",
+          "name": "scary 1 call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary3.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary3.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary3.jpg",
+          "name": "scary 3 call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary4.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary4.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/scary4.jpg",
+          "name": "scary 4 call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/trump1.mp3",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/trump1.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/trump1.jpg",
+          "name": "trump 1"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/kung_fu_teacher.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/kung_fu_teacher.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/kung_fu_teacher.jpg",
+          "name": "kung_fu_teacher"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/mom.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/mom.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/mom.jpg",
+          "name": "mom call"
         },
         {
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/nerd_alert.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/nerd_alert.jpg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/nerd_alert.jpg",
+          "name": "nerd_alert"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/trump.m4a",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/trump.jpeg"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/animesocial/master/finish/trump.jpeg",
+          "name": "trump"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/1.wav",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/TaxiAsia.jpg",
+          "name": "Taxi is waiting for you"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/2.wav",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/ColeAsia.jpg",
+          "name": "Fighting at school"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/3.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/dog.jpg",
+          "name": "Your dog is annoying!"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/4.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/ProposicionHombresAsia.jpg",
+          "name": "People admire colleagues"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/5.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/PizzaAsia2.jpg",
+          "name": "Pizza Asia"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/6.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/NovioAsia.jpg",
+          "name": "Why do you call my boyfriend?"
+        },
+        {
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/7.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/NoviaAsia2.jpg",
+          "name": "Why do you call my girlfriend?"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/8.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/golpe.jpg",
+          "name": "You bumped into my car"
+        },
+        {
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/9.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/Movil_encontrado.jpg",
+          "name": "IPhone lost"
+        },{
+          "audio": "https://github.com/quynhsonsecotien1/mangazingbox/raw/master/10.mp3",
+          "cover": "http://static.appha.es:8080/mdbfs/jokesphone/pub/ProposicionMujeresAsia2.jpg",
+          "name": "People admire colleagues"
         }
       ]
 }
